@@ -1,0 +1,210 @@
+/* code by Joshua H Dawes - The University of Manchester */
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: arial;
+  background: #b0c4de;
+}
+
+.header {
+  display: block;
+  position: fixed;
+  background: #CCC;
+  border-bottom: #50007F 3px solid;
+  width: 100%;
+  top: 0;
+}
+
+.title {
+  padding: 10px;
+  font-size: 24px;
+}
+
+.title.main {
+  border-bottom: #50007F 2px solid;
+  box-shadow: 0 2px 10px #CCC;
+  margin: -20px;
+  margin-bottom: 20px;
+  padding: 30px;
+  background: #50007F;
+  color: #FFF!important;
+}
+
+.profile-picture {
+  width: auto;
+  float: left;
+  text-align: center;
+  margin-right: 30px;
+}
+
+.profile-picture .image {
+  display: table;
+}
+
+.profile-picture .image img {
+  width: 150px;
+  margin: 8px;
+  margin-bottom: 5px;
+}
+
+.profile-picture .caption {
+  width: auto;
+  padding: 20px;
+  padding-top: 10px;
+  font-size: 12px;
+}
+
+.links {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+  .links a {
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #333;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .links a.current {
+    background: #50007F;
+    color: #FFF;
+  }
+  
+  .links a:hover {
+    background: #50007F;
+	color: #FFF;
+  }
+  
+  .links a .menu {
+    display: none;
+  }
+  
+  .links a:hover .menu {
+    display: block;
+	  position: absolute;
+	  background: #FFF;
+	  width: 150px;
+	  margin-left: -10px;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  color: #333;
+	  border-top: #50007F 3px solid;
+    box-shadow: 0 5px 10px #666;
+  }
+  
+  .links a:hover .menu span.item {
+    display: block;
+	padding-left: 10px!important;
+	padding-right: 10px!important;
+	cursor: pointer;
+	color: #333;
+  }
+  
+    .links a:hover .menu span.item:hover {
+	  background: #50007F;
+	  color: #FFF;
+	}
+  
+.content {
+  padding: 20px;
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background: #FFF;
+  box-shadow: 0 0 10px #999;
+  overflow: hidden;
+}
+
+  .content .message {
+    padding: 10px;
+	/*background: #d8bfd8;*/
+	/*border-left: #50007F 5px solid;*/
+	border-bottom: #50007F 2px solid;
+	border-radius: 5px 5px 5px 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 12px;
+	line-height: 160%;
+  }
+
+  .content .title {
+    font-size: 24px;
+    color: #50007F;
+    font-family: arial;
+  }
+  
+  .content .text {
+    font-size: 14px;
+    line-height: 140%;
+	  padding: 10px;
+  }
+    
+    .content .text a {
+      color: #000;
+      color: blue;
+      padding-bottom: 2px;
+      text-decoration: none;
+      border-bottom: 1px solid blue;
+    }
+    
+    .content .text ul li {
+      margin: 5px;
+    }
+    
+    .content img {
+      width: 200px;
+      float: right;
+      margin: 20px;
+    }
+
+table tr td {
+  border-bottom: #333 1px solid;
+  padding: 10px;
+  vertical-align: top;
+}
+
+/*table tr td a {
+  font-size: 18px;
+  line-height: 140%;
+  display: block;
+  min-width: 150px;
+  background: #CCC;
+  color: #333!important;
+  border: none!important;
+}
+
+table tr td a:hover {
+  border: none!important;
+  background: #999;
+}*/
+
+ul.publications-list, ul.outreach-list {
+  list-style: none;
+  margin-left: -30px;
+}
+
+table tr {
+  text-align: left;
+  border: none;
+}
+
+table tr th {
+  padding: 10px;
+}
+
+table tr td {
+  border: none;
+}
+
+table tr td.time-divider {
+  text-align: center;
+  border-bottom: 1px dashed grey;
+  border-top: 1px dashed grey;
+}
