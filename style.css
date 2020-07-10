@@ -26,6 +26,7 @@ body {
   margin: -20px;
   margin-bottom: 20px;
   padding: 30px;
+  padding-bottom: 40px;
   background: white;
   color: #50007F!important;
 }
@@ -42,9 +43,8 @@ body {
 }
 
 .profile-picture .image img {
-  width: 150px;
+  width: 170px;
   margin: 8px;
-  margin-bottom: 5px;
 }
 
 .profile-picture .caption {
@@ -52,6 +52,15 @@ body {
   padding: 20px;
   padding-top: 10px;
   font-size: 12px;
+}
+
+.cv {
+  font-size: 16px;
+}
+
+.highlight {
+  background: #d9edf7;
+  border: #bce8f1 1px solid;
 }
 
 .links {
