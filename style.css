@@ -22,13 +22,12 @@ body {
 }
 
 .title.main {
-  border-bottom: #50007F 2px solid;
   box-shadow: 0 2px 10px #CCC;
   margin: -20px;
   margin-bottom: 20px;
   padding: 30px;
-  background: #50007F;
-  color: #FFF!important;
+  background: white;
+  color: #50007F!important;
 }
 
 .profile-picture {
