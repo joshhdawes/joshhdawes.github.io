@@ -7,6 +7,17 @@ body {
   background: #b0c4de;
 }
 
+a {
+  color: #000;
+  padding-bottom: 2px;
+  text-decoration: none;
+  border-bottom: 1px dashed black;
+}
+
+a:hover {
+  border-bottom: 1px solid black;
+}
+
 .header {
   height: 150px;
   position: fixed;
@@ -36,10 +47,6 @@ body {
 
 .title.main .name {
 }
-
-.cv {
-  font-size: 16px;
-}
   
 .content {
   float: right;
@@ -68,14 +75,6 @@ body {
   .content .text.highlight {
     font-size: 18px;
   }
-    
-    .content .text a {
-      color: #000;
-      color: blue;
-      padding-bottom: 2px;
-      text-decoration: none;
-      border-bottom: 1px solid blue;
-    }
     
     .content .text ul li {
       margin: 5px;
