@@ -18,6 +18,11 @@ a:hover {
   border-bottom: 1px solid black;
 }
 
+a.thesis {
+  font-size: 18px;
+  color: #50007F!important;
+}
+
 .header {
   height: 150px;
   position: fixed;
@@ -32,6 +37,7 @@ a:hover {
 }
 
 .title {
+  margin-top: 20px;
   font-size: 24px;
 }
 
