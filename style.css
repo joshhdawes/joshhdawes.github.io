@@ -36,6 +36,11 @@ a.thesis {
 
 }
 
+.role {
+  color: rgb(53, 53, 53);
+  font-size: 14px;
+}
+
 .title {
   margin-top: 20px;
   font-size: 24px;
@@ -79,7 +84,7 @@ a.thesis {
   }
 
   .content .text.highlight {
-    font-size: 18px;
+    font-size: 20px;
   }
     
     .content .text ul li {
