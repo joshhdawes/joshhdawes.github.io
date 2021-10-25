@@ -8,9 +8,9 @@ My main activities involve leading the research activities at SnT on Runtime Ver
 
 I was awarded my PhD in 2021 by the University of Manchester in the UK.  I spent the entirety of my PhD at the CMS Experiment at CERN in Geneva.
 
-My focus was on Runtime Verification for the performance analysis of web services.  I introduced the CFTL specification language, and led a small team to develop an ecosystem of tools that is released as the (http://pyvypr.github.io/home/)[VyPR Project].
+My focus was on Runtime Verification for the performance analysis of web services.  I introduced the CFTL specification language, and led a small team to develop an ecosystem of tools that is released as the [VyPR Project](http://pyvypr.github.io/home/).
 
-You can find my thesis on CERN's (https://cds.cern.ch/record/2766727?ln=en)[document repository].
+You can find my thesis on CERN's [document repository](https://cds.cern.ch/record/2766727?ln=en).
 
 ### What I've published
 
