@@ -23,12 +23,12 @@ My academic career began in around 2017 when I started my PhD.  Here, I give a l
 * *Joshua Heneage Dawes, Giles Reger.* **Explaining Violations of Properties in Control-Flow Temporal Logic.** *Porto, Portugal, RV 2019*
 * *Joshua Heneage Dawes, Giles Reger, Giovanni Franzoni, Andreas Pfeiffer and Giacomo Govi.* **VyPR2: A Framework for Runtime Verification of Python Web Services.** *Prague, Czech Republic, TACAS 2019*
 * *Joshua Heneage Dawes and Giles Reger.* **Specification of Temporal Properties of Functions for Runtime Verification.** *Limassol, Cyprus, SAC-SVT 2019*
-* *Joshua Heneage Dawes on behalf of the CMS Collaboration* **A Python object-oriented framework for the CMS alignment and calibration data** *San Francisco, USA, CHEP 2016*
+* *Joshua Heneage Dawes on behalf of the CMS Collaboration.* **A Python object-oriented framework for the CMS alignment and calibration data.** *San Francisco, USA, CHEP 2016*
 
 ### Additional Talks
 
 At various times I've given talks about various aspects of my work, separately from publications.  Here's a list:
-* **VyPR2: A Framework for Runtime Verification of Python Web Services** *CERN Computing Seminar, Geneva, Switzerland, 2019*
+* **VyPR2: A Framework for Runtime Verification of Python Web Services.** *CERN Computing Seminar, Geneva, Switzerland, 2019*
 
 ### Students
 
