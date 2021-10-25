@@ -1,4 +1,4 @@
-### A bit about me...
+### Dr Joshua H Dawes
 
 I am a Research Associate (postdoc) at SnT, Luxembourg.
 
