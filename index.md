@@ -1,8 +1,8 @@
-### Dr Joshua H Dawes
-
-I am a Research Associate (postdoc) at SnT, Luxembourg.
+### Dr Joshua H Dawes - Research Associate at SnT, Luxembourg
 
 My main activities involve leading the research activities at SnT on Runtime Verification and Specification-based Security Analysis, as part of the COSMOS Horizon 2020 project.
+
+You can reach me at joshua dot dawes at uni.lu.
 
 ### My PhD
 
