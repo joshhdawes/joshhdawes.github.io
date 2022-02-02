@@ -1,8 +1,10 @@
 ### Dr Joshua H Dawes
 
-**Research Associate at SnT, Luxembourg**
+**Researcher at SnT, Luxembourg**
 
-I spend most of my time leading the research activities at SnT on Runtime Verification and Specification-based Security Analysis, as part of the COSMOS Horizon 2020 project.
+I spend most of my time leading the research activities at SnT on Runtime Verification, as part of the COSMOS Horizon 2020 project.
+
+As part of COSMOS, I perform my own fundamental research (which involves extending my PhD) and coordinate the activities of a PhD student and a software developer.
 
 You can reach me at joshua dot dawes at uni.lu.
 
@@ -13,6 +15,11 @@ I was awarded my PhD in 2021 by the University of Manchester in the UK.  I spent
 My focus was on Runtime Verification for the performance analysis of web services.  I introduced the CFTL specification language, and led a small team to develop an ecosystem of tools that is released as the [VyPR Project](http://pyvypr.github.io/home/).
 
 You can find my thesis on CERN's [document repository](https://cds.cern.ch/record/2766727?ln=en).
+
+### Collaborations
+
+* As of January 2022, I'm a co-supervisor of a PhD based at the University of Ottawa in Canada, along with Prof. Domenico Bianculli and Prof. Lionel Briand.
+* As of February 2022, I'm a co-supervisor of a PhD based at SnT in Luxembourg, along with Prof. Domenico Bianculli.
 
 ### What I've published
 
