@@ -4,7 +4,7 @@
 
 I spend most of my time leading the research activities at SnT on Runtime Verification, as part of the COSMOS Horizon 2020 project.
 
-As part of COSMOS, I perform my own fundamental research (which involves extending my PhD) and coordinate the activities of a PhD student and a software developer.
+As part of COSMOS, I perform my own fundamental research (which involves extending my PhD), work on multiple tools, and manage the development of other tools.
 
 You can reach me at joshua dot dawes at uni.lu.
 
