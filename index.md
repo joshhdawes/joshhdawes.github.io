@@ -1,8 +1,8 @@
-**Researcher at [SnT](http://uni.lu/snt/), Luxembourg**
+**Researcher in Computer Science at [SnT](http://uni.lu/snt/), Luxembourg**
 
-I spend most of my time leading the research activities at SnT on Runtime Verification, as part of the COSMOS Horizon 2020 project.
+*I'm currently an academic, working at the SnT Centre in Luxembourg. Before that, I got my PhD at CERN in 2021 (with the University of Manchester, in the UK).*
 
-As part of COSMOS, I perform my own fundamental research (which involves extending my PhD), work on multiple tools, manage the development of other tools, and work with companies across Europe to apply our research on Runtime Verification to their use cases.
+At SnT, I lead research activities at SnT on Runtime Verification, as part of the COSMOS Horizon 2020 project. This involves performing my own fundamental research (which involves extending my PhD), working on multiple tools, managing the development of other tools, and working with companies across Europe to apply our research on Runtime Verification to their use cases.
 
 You can reach me at joshua dot dawes at uni.lu.
 
@@ -16,8 +16,7 @@ You can find my thesis on CERN's [document repository](https://cds.cern.ch/recor
 
 ### What I've published
 
-My academic career began in around 2017 when I started my PhD.  Here, I give a list of the publications that describe my work since then.
-
+* *Joshua Heneage Dawes and Domenico Bianculli.* **Specifying Source Code and Signal-based Behaviour of Cyber-Physical System Components.** *Oslo, Norway, FACS 2022* - to appear
 * *Joshua Heneage Dawes and Domenico Bianculli.* **Specifying Properties over Inter-Procedural, Source Code Level Behaviour of Programs.** *Los Angeles, USA, RV 2021* - [paper](https://orbilu.uni.lu/handle/10993/47852)
 * *Omar Javed, Joshua Heneage Dawes, Marta Han, Giles Reger, Giovanni Franzoni, Andreas Pfeiffer.* **PerfCI: A Toolchain for Automated Performance Testing during Continuous Integration of Python Projects - Demo.** *Melbourne, Australia, ASE 2020* - [paper](http://joshhdawes.github.io/papers/../../../papers/perfci.pdf)
 * *Joshua Heneage Dawes, Marta Han, Omar Javed, Giles Reger, Giovanni Franzoni, Andreas Pfeiffer.* **Analysing the Performance of Python-based Web Services with the VyPR Framework - Tutorial.** *Los Angeles, USA, RV 2020* - [paper](http://joshhdawes.github.io/papers/../../../papers/rv-vypr-tutorial.pdf)
@@ -39,9 +38,8 @@ At various times I've given talks about various aspects of my work, separately f
 
 ### Student Supervision
 
-One of the best parts of my job is student supervision.  Here's a list of the students I've supervised over the years, on projects related to my research:
-* *Bahar Hadai* (University of Ottawa), PhD Student, beginning 2022
-* *Cristina Stratan* (University of Luxembourg), PhD Student, beginning 2022
+* *Bahar Hadadi* (University of Ottawa), PhD Student (mentor), beginning 2022
+* *Cristina Stratan* (University of Luxembourg), PhD Student (co-supervisor), beginning 2022
 * *Per Sunde* (University of Oslo), CERN Summer Student 2018, **Timed Pushdown Automata for Offline Runtime Verification**
 * *Marta Han* (University of Zagreb), CERN Summer Student 2019 and CERN Technical Student 2020, **Development of Analysis Tools for VyPR**
 * *Jurgis Rancevas* (University of Vilnius), Erasmus Student 2019, **Automated Release Validation of the CMS Experiment's Conditions Upload Service**
