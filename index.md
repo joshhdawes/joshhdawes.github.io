@@ -1,4 +1,4 @@
-I'm currently a Senior Engineering Manager at the Science Technology and Facilities Council in the UK.
+I'm currently a Senior Engineering Manager at the [Science Technology and Facilities Council](https://www.ukri.org/councils/stfc/) in the UK.
 
 Before joining the STFC, I led research at the [SnT centre](https://www.uni.lu/snt-en/) in Luxembourg on developing ways to rigorously analyse companies' software. My team deployed tools to companies in the Avionics and Acoustics sectors.
 
