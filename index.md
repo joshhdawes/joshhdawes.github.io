@@ -10,12 +10,14 @@ I run a team of 7 software engineers who build and maintain a range of web appli
 
 I got my PhD in Computer Science at [CERN](https://home.cern/) (awarded by the [University of Manchester](https://www.manchester.ac.uk/)), developing ways to rigorously analyse the behaviour of web services used by the [CMS Experiment](https://www.home.cern/science/experiments/cms). Read my thesis [here](https://cds.cern.ch/record/2766727?ln=en).
 
-I mainly used Python during my PhD, not using many libraries because I generally had to implement my own.
-
 After leaving CERN, I spent 3 years as a Research Associate at [SnT](https://www.uni.lu/snt-en/) in Luxembourg, where I led a team in developing ways to rigorously analyse companies' software. We deployed tools to companies in the Avionics and Acoustics sectors.
-
-We mainly wrote our software in Python without using many libraries since we were implementing algorithms that I had designed.
 
 ### Publications
 
 I've published various peer-reviewed papers which are listed on my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=UVzGwyAAAAAJ&view_op=list_works&sortby=pubdate) page.
+
+### Technologies
+
+At STFC I work with a range of technologies and languages, including Typescript, React, Vite and Express. I also work with OpenStack, Kubernetes, ArgoCD, and Grafana's LGTM stack.
+
+At CERN and SnT, I worked mainly with Python, used Flask and Vue.js for building web applications, and used a variety of database technologies such as SQLite, Oracle and Postgres, along with the SQLAlchemy ORM.
