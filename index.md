@@ -1,8 +1,8 @@
-#### Computer Science & Software Engineering researcher -  PhD @ CERN - currently managing engineering teams for applications and DevOps/Platform
+#### Computer Science & Software Engineering researcher -  PhD completed at CERN - currently managing engineering teams for applications and DevOps/Platform
 
 ### Currently
 
-I'm currently a Senior Engineering Manager at the [Science Technology and Facilities Council](https://www.ukri.org/councils/stfc/) in the UK.
+I'm a Senior Engineering Manager at the [Science Technology and Facilities Council](https://www.ukri.org/councils/stfc/) in the UK.
 
 I run a team of 7 software engineers who build and maintain a range of web applications, mainly written in Typescript using Node.js, React, Vite and Express. I also oversee a DevOps and Platform Engineering team, which looks after the infrastructure that supports various web applications, using technologies such as Kubernetes, ArgoCD, Grafana's LGTM stack, Keycloak and more.
 
