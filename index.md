@@ -8,11 +8,13 @@ I run a team of 7 software engineers who build and maintain a range of web appli
 
 ### Research
 
-Before joining STFC, I spent 3 years as a Research Associate at [SnT](https://www.uni.lu/snt-en/) in Luxembourg, where I led a team in developing ways to rigorously analyse companies' software. We deployed tools to companies in the Avionics and Acoustics sectors. We mainly wrote our software in Python without using many libraries since we were implementing algorithms that I had designed.
-
 I got my PhD in Computer Science at [CERN](https://home.cern/) (awarded by the [University of Manchester](https://www.manchester.ac.uk/)), developing ways to rigorously analyse the behaviour of web services used by the [CMS Experiment](https://www.home.cern/science/experiments/cms). Read my thesis [here](https://cds.cern.ch/record/2766727?ln=en).
 
-I mainly used Python during my PhD, again not using many libraries because I generally had to implement my own.
+I mainly used Python during my PhD, not using many libraries because I generally had to implement my own.
+
+After leaving CERN, I spent 3 years as a Research Associate at [SnT](https://www.uni.lu/snt-en/) in Luxembourg, where I led a team in developing ways to rigorously analyse companies' software. We deployed tools to companies in the Avionics and Acoustics sectors.
+
+We mainly wrote our software in Python without using many libraries since we were implementing algorithms that I had designed.
 
 ### Publications
 
