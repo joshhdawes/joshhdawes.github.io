@@ -16,6 +16,14 @@ After leaving CERN, I spent 3 years as a Research Associate at [SnT](https://www
 
 I've published various peer-reviewed papers which are listed on my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=UVzGwyAAAAAJ&view_op=list_works&sortby=pubdate) page.
 
+### Research Areas of Interest
+
+Most of my work in research focused on using temporal logics (ones I had designed) as specification languages. I also did a lot of work on instrumenting source code based on specifications, and then monitoring executions of that source code to check for satisfaction of specifications.
+
+I focused on designing specification languages that software engineers could use easily.
+
+I also did a lot of work on analysing the results of program execution monitoring, including explaining why an execution did or did not satisfy a specification.
+
 ### Technologies
 
 At STFC I work with a range of technologies and languages, including Typescript, React, Vite and Express. I also work with OpenStack, Kubernetes, ArgoCD, and Grafana's LGTM stack.
