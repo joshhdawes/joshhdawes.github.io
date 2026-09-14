@@ -18,9 +18,7 @@ I've published various peer-reviewed papers which are listed on my [Google Schol
 
 ### Research Areas of Interest
 
-Most of my work in research focused on using temporal logics (ones I had designed) as specification languages. I also did a lot of work on instrumenting source code based on specifications, and then monitoring executions of that source code to check for satisfaction of specifications.
-
-I focused on designing specification languages that software engineers could use easily.
+Most of my work in research focused on using temporal logics (ones I had designed) as specification languages that software engineers could use easily. I also did a lot of work on instrumenting source code based on specifications, and then monitoring executions of that source code to check for satisfaction of specifications.
 
 I also did a lot of work on analysing the results of program execution monitoring, including explaining why an execution did or did not satisfy a specification.
 
