@@ -29,3 +29,13 @@ I also did a lot of work on analysing the results of program execution monitorin
 At STFC I work with a range of technologies and languages, including Typescript, React, Vite and Express. I also work with OpenStack, Kubernetes, ArgoCD, and Grafana's LGTM stack.
 
 At CERN and SnT, I worked mainly with Python, used Flask and Vue.js for building web applications, and used a variety of database technologies such as SQLite, Oracle and Postgres, along with the SQLAlchemy ORM.
+
+### Arts and Humanities
+
+While my career has been largely technical, away from work I spend most of my time engaging in the arts and humanities.
+
+- I'm an avid reader, across a range of genres
+- I do quite a lot of writing
+- I play piano, and love composing my own music
+- I occasionally make bits of visual art, preferring digital media such as tablets (I quite like using Procreate) and 3D modelling (I've worked on some fun personal projects over the years with tools such as Blender and Google Sketchup).
+- I also love history and classics!
